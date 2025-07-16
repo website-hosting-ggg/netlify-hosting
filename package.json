@@ -6,7 +6,8 @@
     "build": "astro build",
     "preview": "astro preview"
   },
-  "devDependencies": {
-    "astro": "^3.6.0"
+  "dependencies": {
+    "astro": "^4.0.0",
+    "@astrojs/static": "^4.0.0"
   }
 }
